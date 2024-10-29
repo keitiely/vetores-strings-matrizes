@@ -1,4 +1,4 @@
-//falta a 14, 16, 17 e 18//
+//falta a 14, 16 e 18//
 /*14-Codifique um programa para jogar campo minado.
 O programa deve solicitar uma posição ao usuário e mostrar o campo,
 repetidamente, até que a posição 0,0 seja fornecida ou que o usuário jogue numa posição minada.
