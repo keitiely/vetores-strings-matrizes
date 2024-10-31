@@ -1,4 +1,4 @@
-/*14- Codifique um programa para jogar campo minado. O programa deve solicitar
+/*14 e 16- Codifique um programa para jogar campo minado. O programa deve solicitar
 uma posição ao usuário e mostrar o campo, repetidamente,
 até que a posição (0,0) seja fornecida ou que o usuário jogue numa posição minada.
 representando um campo minado 8X8. Os limites da matriz devem ser preenchidos
