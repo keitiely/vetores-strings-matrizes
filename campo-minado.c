@@ -165,7 +165,7 @@ void jogar(){
             printf("\nDigite as coordenadas de linha e coluna: ");
             scanf("%d%d", &linha, &coluna);
         
-            if(coordenadaEhValida(linha, coluna) == 0 || jogo[linha][coluna].estaAberta == 1);
+            if(coordenadaEhValida(linha, coluna) == 0 || jogo[linha][coluna].estaAberta == 1)
                 printf("\nCoordenada invalida ou já aberta!");
         }while(coordenadaEhValida(linha, coluna) == 0 || jogo[linha][coluna].estaAberta == 1);//verificar se esta fechada
         
